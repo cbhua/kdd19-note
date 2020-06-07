@@ -23,7 +23,9 @@ The Review PowerPoint follows the structure:
 - Introduce the specific model structure of the article methodology.
 - To present the results of the tests and experiments carried out by the article to understand the performance of the model proposed in the article.
 
-## Other things
+## Other more thing
+
+`Publications` folder contains most available publications PDF document, which would save your time for finding such papers. However, some papers are not here since the limitation of copyright and download limitations, you may read them online. 
 
 Here provides the full original PowerPoint document and generated PDF document. Feel free to use and edit them, happy researching. 
 
